@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>EFCoreDemoForApi</name>
+    </assembly>
+    <members>
+        <member name="T:EFCoreDemoForApi.Startup">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:EFCoreDemoForApi.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            
+            </summary>
+            <param name="configuration"></param>
+        </member>
+    </members>
+</doc>

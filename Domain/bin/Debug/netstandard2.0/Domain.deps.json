@@ -9,6 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "Domain/1.0.0": {
         "dependencies": {
+          "Microsoft.CodeAnalysis.FxCopAnalyzers": "2.9.4",
           "Microsoft.EntityFrameworkCore": "2.2.6",
           "Microsoft.EntityFrameworkCore.Design": "2.2.6",
           "Microsoft.EntityFrameworkCore.Tools": "2.2.6",
@@ -23,6 +24,16 @@
           "Domain.dll": {}
         }
       },
+      "Microsoft.CodeAnalysis.FxCopAnalyzers/2.9.4": {
+        "dependencies": {
+          "Microsoft.CodeAnalysis.VersionCheckAnalyzer": "2.9.4",
+          "Microsoft.CodeQuality.Analyzers": "2.9.4",
+          "Microsoft.NetCore.Analyzers": "2.9.4",
+          "Microsoft.NetFramework.Analyzers": "2.9.4"
+        }
+      },
+      "Microsoft.CodeAnalysis.VersionCheckAnalyzer/2.9.4": {},
+      "Microsoft.CodeQuality.Analyzers/2.9.4": {},
       "Microsoft.CSharp/4.5.0": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.CSharp.dll": {
@@ -273,8 +284,10 @@
           }
         }
       },
+      "Microsoft.NetCore.Analyzers/2.9.4": {},
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
+      "Microsoft.NetFramework.Analyzers/2.9.4": {},
       "MySqlConnector/0.49.2": {
         "dependencies": {
           "System.Buffers": "4.4.0",
@@ -684,6 +697,27 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Microsoft.CodeAnalysis.FxCopAnalyzers/2.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Hq8ubc3mgNElouL7+nYqUfrgtH0s5F8UUdicBnjr72DSPKC/bQMU8lpySQ3Hog7JU7SyblFfpJR3VMgNFTzcww==",
+      "path": "microsoft.codeanalysis.fxcopanalyzers/2.9.4",
+      "hashPath": "microsoft.codeanalysis.fxcopanalyzers.2.9.4.nupkg.sha512"
+    },
+    "Microsoft.CodeAnalysis.VersionCheckAnalyzer/2.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vKZIF7bNEOwaHvS163bdmq9zcpcN4ve2hXEacoeeeGGYClo8/YqM1iMYnsTdWtcXZj7VT9SvwhkIapjkjGM3OQ==",
+      "path": "microsoft.codeanalysis.versioncheckanalyzer/2.9.4",
+      "hashPath": "microsoft.codeanalysis.versioncheckanalyzer.2.9.4.nupkg.sha512"
+    },
+    "Microsoft.CodeQuality.Analyzers/2.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+uoxsrXJ27SYXjGcXTGHwLqjC3pXe6NEDUUGv1uCWtgl7kLMHmqqPA/3zAy/H2OhU/Zq9XrYEABYXNiLUqLjMA==",
+      "path": "microsoft.codequality.analyzers/2.9.4",
+      "hashPath": "microsoft.codequality.analyzers.2.9.4.nupkg.sha512"
+    },
     "Microsoft.CSharp/4.5.0": {
       "type": "package",
       "serviceable": true,
@@ -845,6 +879,13 @@
       "path": "microsoft.extensions.primitives/2.2.0",
       "hashPath": "microsoft.extensions.primitives.2.2.0.nupkg.sha512"
     },
+    "Microsoft.NetCore.Analyzers/2.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WF0/qmG4cgMA7bl+82OfAW+DH7Qo3Np72ocK8Qr8eTyg5ZPEPonDLL0doZz29o2DF0bUht5t84lDccy+vIhXxQ==",
+      "path": "microsoft.netcore.analyzers/2.9.4",
+      "hashPath": "microsoft.netcore.analyzers.2.9.4.nupkg.sha512"
+    },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
       "serviceable": true,
@@ -858,6 +899,13 @@
       "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "path": "microsoft.netcore.targets/1.1.0",
       "hashPath": "microsoft.netcore.targets.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.NetFramework.Analyzers/2.9.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xH1wQgNCIMmDWn1Y0ppu0hLqD+xexU4sygsLMIqpro9S7g+l1fBiDKuIq5dEIUmKetseyj/DLXn/ymfF5CKgBQ==",
+      "path": "microsoft.netframework.analyzers/2.9.4",
+      "hashPath": "microsoft.netframework.analyzers.2.9.4.nupkg.sha512"
     },
     "MySqlConnector/0.49.2": {
       "type": "package",

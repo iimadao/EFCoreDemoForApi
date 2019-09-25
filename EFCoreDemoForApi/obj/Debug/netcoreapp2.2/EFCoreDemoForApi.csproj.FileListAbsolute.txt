@@ -38,3 +38,4 @@ E:\workspaces\dotnet_core\ef\EFCoreForWebApi\EFCoreDemoForApi\obj\Debug\netcorea
 E:\workspaces\dotnet_core\ef\EFCoreForWebApi\EFCoreDemoForApi\obj\Debug\netcoreapp2.2\EFCoreDemoForApi.csproj.CopyComplete
 E:\workspaces\dotnet_core\ef\EFCoreForWebApi\EFCoreDemoForApi\obj\Debug\netcoreapp2.2\EFCoreDemoForApi.dll
 E:\workspaces\dotnet_core\ef\EFCoreForWebApi\EFCoreDemoForApi\obj\Debug\netcoreapp2.2\EFCoreDemoForApi.pdb
+E:\workspaces\dotnet_core\ef\EFCoreForWebApi\EFCoreDemoForApi\bin\Debug\netcoreapp2.2\EFCoreDemoForApi.xml
