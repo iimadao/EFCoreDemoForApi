@@ -30,7 +30,7 @@ namespace Domain.Migrations
                     b.Property<long>("GradeId");
 
                     b.Property<string>("Name")
-                        .HasMaxLength(125);
+                        .HasMaxLength(125); 
 
                     b.HasKey("Id");
 
