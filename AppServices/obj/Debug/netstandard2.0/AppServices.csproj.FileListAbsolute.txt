@@ -1,0 +1,12 @@
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\bin\Debug\netstandard2.0\AppServices.deps.json
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\bin\Debug\netstandard2.0\AppServices.dll
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\bin\Debug\netstandard2.0\AppServices.pdb
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\bin\Debug\netstandard2.0\Domain.dll
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\bin\Debug\netstandard2.0\Domain.pdb
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\obj\Debug\netstandard2.0\AppServices.csprojAssemblyReference.cache
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\obj\Debug\netstandard2.0\AppServices.csproj.CoreCompileInputs.cache
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\obj\Debug\netstandard2.0\AppServices.AssemblyInfoInputs.cache
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\obj\Debug\netstandard2.0\AppServices.AssemblyInfo.cs
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\obj\Debug\netstandard2.0\AppServices.csproj.CopyComplete
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\obj\Debug\netstandard2.0\AppServices.dll
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\obj\Debug\netstandard2.0\AppServices.pdb

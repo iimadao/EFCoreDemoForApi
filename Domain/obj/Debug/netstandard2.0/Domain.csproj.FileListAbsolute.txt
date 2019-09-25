@@ -1,0 +1,9 @@
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\Domain\bin\Debug\netstandard2.0\Domain.deps.json
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\Domain\bin\Debug\netstandard2.0\Domain.dll
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\Domain\obj\Debug\netstandard2.0\Domain.csprojAssemblyReference.cache
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\Domain\obj\Debug\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\Domain\obj\Debug\netstandard2.0\Domain.AssemblyInfo.cs
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\Domain\bin\Debug\netstandard2.0\Domain.pdb
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\Domain\obj\Debug\netstandard2.0\Domain.dll
+C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\Domain\obj\Debug\netstandard2.0\Domain.pdb
