@@ -26,7 +26,8 @@ namespace Domain.Migrations
 
                     b.Property<long>("GradeId");
 
-                    b.Property<string>("Name");
+                    b.Property<string>("Name")
+                        .HasMaxLength(125);
 
                     b.HasKey("Id");
 
@@ -44,7 +45,8 @@ namespace Domain.Migrations
 
                     b.Property<long?>("GradeId");
 
-                    b.Property<string>("Name");
+                    b.Property<string>("Name")
+                        .HasMaxLength(125);
 
                     b.HasKey("Id");
 
@@ -60,7 +62,8 @@ namespace Domain.Migrations
 
                     b.Property<DateTime>("CreationTime");
 
-                    b.Property<string>("Name");
+                    b.Property<string>("Name")
+                        .HasMaxLength(125);
 
                     b.HasKey("Id");
 
@@ -72,15 +75,17 @@ namespace Domain.Migrations
                     b.Property<long>("Id")
                         .ValueGeneratedOnAdd();
 
-                    b.Property<uint>("Age");
+                    b.Property<uint?>("Age");
 
-                    b.Property<long>("ClassesId");
+                    b.Property<long?>("ClassesId");
 
-                    b.Property<DateTime>("CreationTime");
+                    b.Property<DateTime?>("CreationTime");
 
-                    b.Property<string>("Mail");
+                    b.Property<string>("Mail")
+                        .HasMaxLength(125);
 
-                    b.Property<string>("Name");
+                    b.Property<string>("Name")
+                        .HasMaxLength(125);
 
                     b.HasKey("Id");
 
@@ -108,8 +113,7 @@ namespace Domain.Migrations
                 {
                     b.HasOne("Domain.Classes", "Classes")
                         .WithMany("Students")
-                        .HasForeignKey("ClassesId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("ClassesId");
                 });
 #pragma warning restore 612, 618
         }

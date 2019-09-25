@@ -12,11 +12,11 @@ namespace Domain
 
         public string Mail { get; set; }
 
-        public uint Age { get; set; }
+        public uint? Age { get; set; }
 
-        public DateTime CreationTime { get; set; }
+        public DateTime? CreationTime { get; set; }
 
-        public long ClassesId { get; set; }
+        public long? ClassesId { get; set; }
 
         public Classes Classes { get; set; }
     }

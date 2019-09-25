@@ -10,3 +10,14 @@ C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\obj\Debug\netstandard2.0\
 C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\obj\Debug\netstandard2.0\AppServices.csproj.CopyComplete
 C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\obj\Debug\netstandard2.0\AppServices.dll
 C:\demo\EFCoreDemoForApi2\EFCoreDemoForApi\AppServices\obj\Debug\netstandard2.0\AppServices.pdb
+E:\workspaces\dotnet_core\ef\EFCoreForWebApi\AppServices\bin\Debug\netstandard2.0\AppServices.deps.json
+E:\workspaces\dotnet_core\ef\EFCoreForWebApi\AppServices\bin\Debug\netstandard2.0\AppServices.dll
+E:\workspaces\dotnet_core\ef\EFCoreForWebApi\AppServices\bin\Debug\netstandard2.0\AppServices.pdb
+E:\workspaces\dotnet_core\ef\EFCoreForWebApi\AppServices\bin\Debug\netstandard2.0\Domain.dll
+E:\workspaces\dotnet_core\ef\EFCoreForWebApi\AppServices\bin\Debug\netstandard2.0\Domain.pdb
+E:\workspaces\dotnet_core\ef\EFCoreForWebApi\AppServices\obj\Debug\netstandard2.0\AppServices.csprojAssemblyReference.cache
+E:\workspaces\dotnet_core\ef\EFCoreForWebApi\AppServices\obj\Debug\netstandard2.0\AppServices.AssemblyInfoInputs.cache
+E:\workspaces\dotnet_core\ef\EFCoreForWebApi\AppServices\obj\Debug\netstandard2.0\AppServices.AssemblyInfo.cs
+E:\workspaces\dotnet_core\ef\EFCoreForWebApi\AppServices\obj\Debug\netstandard2.0\AppServices.csproj.CopyComplete
+E:\workspaces\dotnet_core\ef\EFCoreForWebApi\AppServices\obj\Debug\netstandard2.0\AppServices.dll
+E:\workspaces\dotnet_core\ef\EFCoreForWebApi\AppServices\obj\Debug\netstandard2.0\AppServices.pdb

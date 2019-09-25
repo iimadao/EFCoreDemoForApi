@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\EFCoreDemoForApi\\EFCoreDemoForApi.csproj": {}
+    "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\EFCoreDemoForApi\\EFCoreDemoForApi.csproj": {}
   },
   "projects": {
-    "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\AppServices\\AppServices.csproj": {
+    "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\AppServices\\AppServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\AppServices\\AppServices.csproj",
+        "projectUniqueName": "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\AppServices\\AppServices.csproj",
         "projectName": "AppServices",
-        "projectPath": "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\AppServices\\AppServices.csproj",
-        "packagesPath": "C:\\Users\\renji\\.nuget\\packages\\",
-        "outputPath": "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\AppServices\\obj\\",
+        "projectPath": "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\AppServices\\AppServices.csproj",
+        "packagesPath": "C:\\Users\\maple\\.nuget\\packages\\",
+        "outputPath": "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\AppServices\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\renji\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maple\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\Domain\\Domain.csproj"
+              "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\Domain\\Domain.csproj"
               }
             }
           }
@@ -53,27 +53,33 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\Domain\\Domain.csproj": {
+    "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\renji\\.nuget\\packages\\",
-        "outputPath": "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\Domain\\obj\\",
+        "projectPath": "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\maple\\.nuget\\packages\\",
+        "outputPath": "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\renji\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maple\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -139,27 +145,33 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\EFCoreDemoForApi\\EFCoreDemoForApi.csproj": {
+    "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\EFCoreDemoForApi\\EFCoreDemoForApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\EFCoreDemoForApi\\EFCoreDemoForApi.csproj",
+        "projectUniqueName": "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\EFCoreDemoForApi\\EFCoreDemoForApi.csproj",
         "projectName": "EFCoreDemoForApi",
-        "projectPath": "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\EFCoreDemoForApi\\EFCoreDemoForApi.csproj",
-        "packagesPath": "C:\\Users\\renji\\.nuget\\packages\\",
-        "outputPath": "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\EFCoreDemoForApi\\obj\\",
+        "projectPath": "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\EFCoreDemoForApi\\EFCoreDemoForApi.csproj",
+        "packagesPath": "C:\\Users\\maple\\.nuget\\packages\\",
+        "outputPath": "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\EFCoreDemoForApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\renji\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\maple\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -172,8 +184,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\AppServices\\AppServices.csproj": {
-                "projectPath": "C:\\demo\\EFCoreDemoForApi2\\EFCoreDemoForApi\\AppServices\\AppServices.csproj"
+              "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\AppServices\\AppServices.csproj": {
+                "projectPath": "E:\\workspaces\\dotnet_core\\ef\\EFCoreForWebApi\\AppServices\\AppServices.csproj"
               }
             }
           }
@@ -228,10 +240,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

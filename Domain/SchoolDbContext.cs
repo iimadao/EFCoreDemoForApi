@@ -20,6 +20,13 @@ namespace Domain
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            modelBuilder.Entity<Student>().Property(p => p.Name).HasMaxLength(125);
+            modelBuilder.Entity<Student>().Property(p => p.Mail).HasMaxLength(125);
+
+
+            modelBuilder.Entity<Classes>().Property(p => p.Name).HasMaxLength(125);
+            modelBuilder.Entity<Course>().Property(p => p.Name).HasMaxLength(125);
+            modelBuilder.Entity<Grade>().Property(p => p.Name).HasMaxLength(125);
              
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
